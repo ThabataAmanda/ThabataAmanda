@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 ### Seja Bem-Vindo(a) ! ⚡ Eu Sou a Thabata
 - 👩‍🎨 Formada em análise e desenvolvimento de sistemas na universidade cruzeiro do sul.
 - 📚 Cursando Engenharia de Design Digital na UniFatecie.
@@ -14,13 +16,13 @@
   <img align="center" alt="Tha-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tha-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tha-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="tharbs-pic" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300"
-</div>
+  <img align="center" alt="Tha-ps" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   
+  <img align="right" alt="tharbs-pic" height="120" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300">
+</div>
 
  <div> 
   <a href= "mailto:thabataamanda@hotmail.com"><img margin src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thabataamandagomide/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
