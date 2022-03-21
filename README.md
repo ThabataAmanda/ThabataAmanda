@@ -1,8 +1,8 @@
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ### Seja Bem-Vindo(a) ! ⚡ Eu Sou a Thabata
-- 👩‍🎨 Formada em <i><strong>Análise e desenvolvimento de sistemas na universidade</strong></i> <strong>Cruzeiro do sul</strong>.
-- 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong> na <strong>UniFatecie</strong>.
+- 👩‍🎨 Formada em <i><strong>Análise e desenvolvimento de sistemas</strong></i>  na universidade <strong>Cruzeiro do sul</strong>.
+- 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong>  na universidade <strong>UniFatecie</strong>.
 - ❤ Apaixonada por Tecnologia e Design.
 - 👩‍💻 Atualmente trabalho como Web Developer|Front-End.
 
