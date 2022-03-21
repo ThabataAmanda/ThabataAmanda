@@ -2,7 +2,7 @@
 
 ### Seja Bem-Vindo(a) ! ⚡ Eu Sou a Thabata
 - 👩‍🎨 Formada em <i><strong>Análise e desenvolvimento de sistemas</strong></i>  na universidade <strong>Cruzeiro do sul</strong>.
-- 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong>  na universidade <strong>UniFatecie</strong>.
+- 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong>  na universidade <strong>UniFatecie</strong>. (1/8)
 - ❤ Apaixonada por Tecnologia e Design.
 - 👩‍💻 Atualmente trabalho como Web Developer|Front-End.
 
