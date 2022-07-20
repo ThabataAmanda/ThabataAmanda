@@ -6,7 +6,7 @@
 - ❤ Apaixonada por Tecnologia e Design.
 - 👩‍💻 Atualmente trabalho como Web Developer|Front-End.
 
- <a href="https://github.com/ThabataAmanda/MeuCv.pdf/blob/main/CV-Thabata-Amanda-Gomide.pdf"> Curriculo
+ <a href="https://github.com/ThabataAmanda/MeuCv.pdf/blob/main/meu_cv.pdf"> Curriculo
 
 
 <div align="center">
