@@ -6,8 +6,7 @@
 - ❤ Apaixonada por Tecnologia e Design.
 - 👩‍💻 Atualmente trabalho como Web Developer|Front-End.
 
- <a href="https://github.com/ThabataAmanda/MeuCv.pdf/blob/main/meu_cv.pdf"> Curriculo |
- <a href="https://github.com/ThabataAmanda/MeuCv.pdf/blob/main/cv_origamid.pdf"> Portifólio Origamid
+ <a href="https://github.com/ThabataAmanda/MeuCv.pdf/blob/main/meu_cv.pdf"> Curriculo
 
 <div align="center">
   <a href="https://github.com/ThabataAmanda">
