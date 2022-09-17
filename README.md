@@ -26,6 +26,6 @@
   <a href="https://www.linkedin.com/in/thabataamandagomide/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
-  <img align="right" alt="tharbs-pic" height="120" src="https://picrew.me/share?cd=4wGB3OsnC8">
+  <img align="right" alt="tharbs-pic" height="120" src="https://drive.google.com/file/d/1a7h5n_KSyoo6oaEeMf066HVlgf5y4FC3/view?usp=sharing">
 
 
