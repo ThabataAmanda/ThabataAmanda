@@ -6,7 +6,7 @@
 - ❤ Apaixonada por Tecnologia e Design.
 - 👩‍💻 Atualmente trabalho como Web Developer|Front-End.
  
-  <img align="right" alt="tharbs-pic" height="300" src="https://64.media.tumblr.com/38a97d09608306a80c052250a321ceab/9d1d2375f030aefc-c3/s640x960/862a4e52db25538f21c59f57600707bb3b2484a3.pnj">
+  <img align="right" alt="tharbs-pic" height="300" src="https://64.media.tumblr.com/72bf20e84df6f2917ca80e257f58eb8f/cb2462d2cf1fce88-3b/s2048x3072/74441b04ce75b2f42749ef9046ff0795648f1455.pnj">
   
  <a href="https://github.com/ThabataAmanda/MeuCv.pdf/blob/main/meu_cv.pdf"> Curriculo
 
