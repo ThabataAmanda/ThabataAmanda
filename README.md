@@ -1,5 +1,6 @@
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ThabataAmanda/ThabataAmanda/blob/output/github-contribution-grid-snake.svg)
+
 ### Seja Bem-Vindo(a) ! ⚡ Eu Sou a Thabata
 - 👩‍🎨 Formada em <i><strong>Análise e desenvolvimento de sistemas</strong></i>  na universidade <strong>Cruzeiro do sul</strong>.
 - 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong>  na universidade <strong>UniFatecie</strong>. (3/8)
@@ -12,10 +13,12 @@
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Tha-Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tha-HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tha-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tha-Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Tha-git" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Tha-ps" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Tha-figma" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 <br>
  <div> 
