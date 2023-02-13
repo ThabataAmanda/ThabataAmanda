@@ -9,7 +9,8 @@
  
   <img align="right" alt="tharbs-pic" height="250" src="https://64.media.tumblr.com/72bf20e84df6f2917ca80e257f58eb8f/cb2462d2cf1fce88-3b/s2048x3072/74441b04ce75b2f42749ef9046ff0795648f1455.pnj">
   
- <a href="https://github.com/ThabataAmanda/MeuCv.pdf/blob/main/meu_cv.pdf"> Curriculo
+ ### Meu Currículo:
+ <a href="https://thabataamanda.github.io/meu_cv/"> Clique Aqui
 
   
 <div style="display: inline_block"><br>
