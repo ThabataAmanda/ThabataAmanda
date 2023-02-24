@@ -11,9 +11,9 @@
 - 👩‍💻 Atualmente trabalho como Web Developer | Front-End.
 - 🐯Aluna Origamid
 
- <img align="left" alt="tharbs-pic" height="50%" width="50%" src="https://64.media.tumblr.com/72bf20e84df6f2917ca80e257f58eb8f/cb2462d2cf1fce88-3b/s2048x3072/74441b04ce75b2f42749ef9046ff0795648f1455.pnj">
+ <img align="left" alt="tharbs-pic" height="50%" width="53%" src="https://64.media.tumblr.com/72bf20e84df6f2917ca80e257f58eb8f/cb2462d2cf1fce88-3b/s2048x3072/74441b04ce75b2f42749ef9046ff0795648f1455.pnj">
 
- #### 📄 Veja Meu Currículo para mais informações:
+ ### 📄 Veja Meu Currículo para mais informações:
  <a href="https://thabataamanda.github.io/meu_cv/"> Clique Aqui
 
 <div style="display: inline_block">
