@@ -13,7 +13,7 @@
 - 🐯 Aluna Origamid
 - 💻 Aluna B7Web
 
-[<img align="left" height="94px" width="94px" alt="imovelguide" src="https://media.licdn.com/dms/image/C4E0BAQF70RHiPewrWA/company-logo_200_200/0/1586999889949?e=2147483647&v=beta&t=k_pUZSPAn9Ok3a9jhC7AhwQP-Q1ZsqxkAJ0KFhVJDNQ"/>](https://imovelguide.com.br)
+[<img align="left" height="95px" width="95px" alt="imovelguide" src="https://media.licdn.com/dms/image/C4E0BAQF70RHiPewrWA/company-logo_200_200/0/1586999889949?e=2147483647&v=beta&t=k_pUZSPAn9Ok3a9jhC7AhwQP-Q1ZsqxkAJ0KFhVJDNQ"/>](https://imovelguide.com.br)
 **Estágiaria Front-end** \
 [**Imovel Guide**](https://imovelguide.com.br) \
 Tecnologias: `JavaScript`, `HTML`, `CSS`.\
@@ -27,24 +27,23 @@ Projetos: `Editor De Fotos`, `Gerador Landing Page`, `Gerador de Banners`, `Gera
 </div>
  <br>
 <div display="flex">
-<h3>- HTML & CSS Para Iniciantes - Origamid | 63% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="15"></h3>
+<h3>- HTML & CSS Para Iniciantes - Origamid | 63% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
  <br>
-<h3>- JavaScript Completo ES6 - Origamid | 6% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="15"></h3>
+<h3>- JavaScript Completo ES6 - Origamid | 6% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
  <br>
-<h3>- HTML & CSS - b7Web | 2% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="15"></h3>
+<h3>- HTML & CSS - b7Web | 2% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
 </div>
 <br>
 
 <hr>
-<img align="left" alt="tharbs-pic" width="48%" src="https://64.media.tumblr.com/72bf20e84df6f2917ca80e257f58eb8f/cb2462d2cf1fce88-3b/s2048x3072/74441b04ce75b2f42749ef9046ff0795648f1455.pnj">
-
 <div style="display: inline_block">
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="18"> Skills</h3>
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" width="70"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" width="70"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" width="120"/>
-<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" width="10%"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" width="10%"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" width="15%"/>
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" height="30" width="8%"/>
+ <br>
 <br>
 <h3 align="left"><img src="https://media0.giphy.com/media/WPuhpiwwp7CevGAoL4/giphy.gif?cid=6c09b952cqvzuy5kh341prgzlyx4hn0bzh1fvkneyqoevzdc&rid=giphy.gif&ct=s" width ="18"> Design</h3>
  <br>
