@@ -5,6 +5,7 @@
 &nbsp;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C509&width=475&lines=%F0%9F%91%8B+Bem-Vindo(a)+!+%E2%9A%A1+Eu+Sou+a+Thabata)](https://git.io/typing-svg)
+
 - 👩‍🎨 Formada em <i><strong>Análise e desenvolvimento de sistemas</strong></i>  na universidade <strong>Cruzeiro do sul</strong>.
 - 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong>  na universidade <strong>UniFatecie</strong>. (3/8)
 - ❤ Apaixonada por Tecnologia e Design.
@@ -12,8 +13,14 @@
 - 🐯 Aluna Origamid
 - 💻 Aluna B7Web
 
+[<img align="left" height="94px" width="94px" alt="imovelguide" src="https://media.licdn.com/dms/image/C4E0BAQF70RHiPewrWA/company-logo_200_200/0/1586999889949?e=2147483647&v=beta&t=k_pUZSPAn9Ok3a9jhC7AhwQP-Q1ZsqxkAJ0KFhVJDNQ"/>](https://imovelguide.com.br)
+**Estágiaria Front-end** \
+[**Imovel Guide**](https://imovelguide.com.br) \
+Tecnologias: `JavaScript`, `HTML`, `CSS`.\
+Projetos: `Editor De Fotos`, `Gerador Landing Page`, `Gerador de Banners`, `Gerador de Landing Page`, `Gerador de Marca D'agua`.
+
 <br><br>
-# Estudos Atuais 
+# Estudos Em Andamento <img src="https://i.gifer.com/origin/e4/e4cd0639b5a5c1e164aeff4370ed2365.gif" width="20">
 <div display="flex" align="center">
 <img src="https://i.redd.it/2mrf5qgev8p61.gif" width="42%"/>
 <img width="45%" src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif" alt="cover" />
