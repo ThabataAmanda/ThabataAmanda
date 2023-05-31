@@ -17,7 +17,7 @@
 **Estágiaria Front-end** \
 [**Imovel Guide**](https://imovelguide.com.br) \
 Tecnologias: `JavaScript`, `HTML`, `CSS`.\
-Projetos: `Editor De Fotos`, `Gerador Landing Page`, `Gerador de Banners`, `Gerador de Landing Page`, `Gerador de Marca D'agua`.
+Projetos: `Editor De Fotos`, `Gerador de Banners`, `Gerador de Landing Page`, `Gerador de Marca D'agua`.
 
 <br><br>
 # Estudos Em Andamento <img src="https://i.gifer.com/origin/e4/e4cd0639b5a5c1e164aeff4370ed2365.gif" width="20">
