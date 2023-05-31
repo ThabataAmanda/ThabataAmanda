@@ -29,11 +29,9 @@
 <br>
 
 <hr>
-<img align="left" alt="tharbs-pic" height="50%" width="53%" src="https://64.media.tumblr.com/72bf20e84df6f2917ca80e257f58eb8f/cb2462d2cf1fce88-3b/s2048x3072/74441b04ce75b2f42749ef9046ff0795648f1455.pnj">
+<img align="left" alt="tharbs-pic" width="48%" src="https://64.media.tumblr.com/72bf20e84df6f2917ca80e257f58eb8f/cb2462d2cf1fce88-3b/s2048x3072/74441b04ce75b2f42749ef9046ff0795648f1455.pnj">
 
 <div style="display: inline_block">
-
- <br>
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="18"> Skills</h3>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" width="70"/>
@@ -41,7 +39,6 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" width="120"/>
 <br>
 <br>
- <br>
 <h3 align="left"><img src="https://media0.giphy.com/media/WPuhpiwwp7CevGAoL4/giphy.gif?cid=6c09b952cqvzuy5kh341prgzlyx4hn0bzh1fvkneyqoevzdc&rid=giphy.gif&ct=s" width ="18"> Design</h3>
  <br>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height="30" width="160"/>
@@ -50,8 +47,8 @@
  <br>
 <hr>
 </div>
- 
 <br>
+
 # Vamos Conversar! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 ### 📄 Veja Meu Currículo para mais informações:
  <a href="https://thabataamanda.github.io/meu_cv/"> Clique Aqui
