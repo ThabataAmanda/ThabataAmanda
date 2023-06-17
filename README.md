@@ -31,7 +31,7 @@ Projetos: `Editor De Fotos`, `Gerador de Banners`, `Gerador de Landing Page`, `G
  <br>
 <h3>- JavaScript Completo ES6 - Origamid | 6% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
  <br>
-<h3>- HTML & CSS - b7Web | 7% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
+<h3>- HTML & CSS - b7Web | 9% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
 </div>
 <br>
 
