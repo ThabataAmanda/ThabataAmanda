@@ -5,23 +5,22 @@
 &nbsp;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C509&width=475&lines=%F0%9F%91%8B+Bem-Vindo(a)+!+%E2%9A%A1+Eu+Sou+a+Thabata)](https://git.io/typing-svg)
-<div align="center">  
+
+
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabataAmanda&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" />
-</div>
-<br><br>
-- 👩‍🎨 Formada em <i><strong>Análise e desenvolvimento de sistemas</strong></i>  na universidade <strong>Cruzeiro do sul</strong>. <br>
-- 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong>  na universidade <strong>UniFatecie</strong>. (3/8) <br>
-- ❤ Apaixonada por Tecnologia e Design. <br>
-- 👩‍💻 Atualmente trabalho como Web Developer | Front-End. <br>
-- 🐯 Aluna Origamid <br>
+
+- 👩‍🎨 Formada em <i><strong>Análise e desenvolvimento de sistemas</strong></i>  na universidade <strong>Cruzeiro do sul</strong>.
+- 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong>  na universidade <strong>UniFatecie</strong>. (3/8)
+- ❤ Apaixonada por Tecnologia e Design.
+- 👩‍💻 Atualmente trabalho como Web Developer | Front-End.
+- 🐯 Aluna Origamid
 - 💻 Aluna B7Web
-<br><br>
-<img align="left" height="95px" width="95px" alt="imovelguide" src="https://media.licdn.com/dms/image/C4E0BAQF70RHiPewrWA/company-logo_200_200/0/1586999889949?e=2147483647&v=beta&t=k_pUZSPAn9Ok3a9jhC7AhwQP-Q1ZsqxkAJ0KFhVJDNQ"/>](https://imovelguide.com.br)
+
+[<img align="left" height="95px" width="95px" alt="imovelguide" src="https://media.licdn.com/dms/image/C4E0BAQF70RHiPewrWA/company-logo_200_200/0/1586999889949?e=2147483647&v=beta&t=k_pUZSPAn9Ok3a9jhC7AhwQP-Q1ZsqxkAJ0KFhVJDNQ"/>](https://imovelguide.com.br)
 **Estágiaria Front-end** \
 [**Imovel Guide**](https://imovelguide.com.br) \
 Tecnologias: `JavaScript`, `HTML`, `CSS`.\
 Projetos: `Editor De Fotos`, `Gerador de Banners`, `Gerador de Landing Page`, `Gerador de Marca D'agua`.
-
 <br><br>
 # Estudos Em Andamento <img src="https://i.gifer.com/origin/e4/e4cd0639b5a5c1e164aeff4370ed2365.gif" width="20">
 <div display="flex" align="center">
@@ -34,10 +33,9 @@ Projetos: `Editor De Fotos`, `Gerador de Banners`, `Gerador de Landing Page`, `G
  <br>
 <h3>- JavaScript Completo ES6 - Origamid | 6% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
  <br>
-<h3>- HTML & CSS - b7Web | 18% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
+<h3>- HTML & CSS - b7Web | 15% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
 </div>
 <br>
-
 <hr>
 <div style="display: inline_block">
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="18"> Skills</h3>
@@ -57,7 +55,6 @@ Projetos: `Editor De Fotos`, `Gerador de Banners`, `Gerador de Landing Page`, `G
 <hr>
 </div>
 <br>
-
 # Vamos Conversar! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 ### 📄 Veja Meu Currículo para mais informações:
  <a href="https://thabataamanda.github.io/meu_cv/"> Clique Aqui
@@ -66,10 +63,8 @@ Projetos: `Editor De Fotos`, `Gerador de Banners`, `Gerador de Landing Page`, `G
   <a href="https://www.linkedin.com/in/thabataamandagomide/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.behance.net/ThabataAmandaGomide" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
  </div>
-
   
   
 <div align="center"> 
  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ThabataAmanda.ThabataAmanda">
 </div>
-
