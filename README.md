@@ -8,13 +8,12 @@
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabataAmanda&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" />
 </div>
-
-
-- 👩‍🎨 Formada em <i><strong>Análise e desenvolvimento de sistemas</strong></i>  na universidade <strong>Cruzeiro do sul</strong>.
-- 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong>  na universidade <strong>UniFatecie</strong>. (3/8)
-- ❤ Apaixonada por Tecnologia e Design.
-- 👩‍💻 Atualmente trabalho como Web Developer | Front-End.
-- 🐯 Aluna Origamid
+<br><br>
+- 👩‍🎨 Formada em <i><strong>Análise e desenvolvimento de sistemas</strong></i>  na universidade <strong>Cruzeiro do sul</strong>. <br>
+- 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong>  na universidade <strong>UniFatecie</strong>. (3/8) <br>
+- ❤ Apaixonada por Tecnologia e Design. <br>
+- 👩‍💻 Atualmente trabalho como Web Developer | Front-End. <br>
+- 🐯 Aluna Origamid <br>
 - 💻 Aluna B7Web
 
 [<img align="left" height="95px" width="95px" alt="imovelguide" src="https://media.licdn.com/dms/image/C4E0BAQF70RHiPewrWA/company-logo_200_200/0/1586999889949?e=2147483647&v=beta&t=k_pUZSPAn9Ok3a9jhC7AhwQP-Q1ZsqxkAJ0KFhVJDNQ"/>](https://imovelguide.com.br)
@@ -35,7 +34,7 @@ Projetos: `Editor De Fotos`, `Gerador de Banners`, `Gerador de Landing Page`, `G
  <br>
 <h3>- JavaScript Completo ES6 - Origamid | 6% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
  <br>
-<h3>- HTML & CSS - b7Web | 15% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
+<h3>- HTML & CSS - b7Web | 18% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
 </div>
 <br>
 
