@@ -15,7 +15,7 @@
 - 👩‍💻 Atualmente trabalho como Web Developer | Front-End. <br>
 - 🐯 Aluna Origamid <br>
 - 💻 Aluna B7Web
-
+<br>
 [<img align="left" height="95px" width="95px" alt="imovelguide" src="https://media.licdn.com/dms/image/C4E0BAQF70RHiPewrWA/company-logo_200_200/0/1586999889949?e=2147483647&v=beta&t=k_pUZSPAn9Ok3a9jhC7AhwQP-Q1ZsqxkAJ0KFhVJDNQ"/>](https://imovelguide.com.br)
 **Estágiaria Front-end** \
 [**Imovel Guide**](https://imovelguide.com.br) \
