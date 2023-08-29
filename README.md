@@ -8,6 +8,8 @@
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabataAmanda&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" />
 </div>
+
+
 - 👩‍🎨 Formada em <i><strong>Análise e desenvolvimento de sistemas</strong></i>  na universidade <strong>Cruzeiro do sul</strong>.
 - 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong>  na universidade <strong>UniFatecie</strong>. (3/8)
 - ❤ Apaixonada por Tecnologia e Design.
