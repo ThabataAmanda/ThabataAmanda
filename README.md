@@ -1,20 +1,26 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C509&width=475&lines=%F0%9F%91%8B+Bem-Vindo(a)+!+%E2%9A%A1+Eu+Sou+a+Thabata)](https://git.io/typing-svg)
+
 <div align="center">
 <img width="40%" height = "40%" src="https://thumbs.gfycat.com/HastyAntiqueBetafish-max-1mb.gif" alt="cover" />
  <img width="40%" height = "40%" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif" alt="cover" />
 </div>
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C509&width=475&lines=%F0%9F%91%8B+Bem-Vindo(a)+!+%E2%9A%A1+Eu+Sou+a+Thabata)](https://git.io/typing-svg)
+  <img align="left" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabataAmanda&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" />
+  
+ 👩‍🎨 Formada em <i><strong>Análise e desenvolvimento de sistemas</strong></i>  na universidade <strong>Cruzeiro do sul</strong>.
+ <br>
+ 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong>  na universidade <strong>UniFatecie</strong>. (4/8)
+ <br>
+ ❤ Apaixonada por Tecnologia e Design.
+ <br>
+ 👩‍💻 Atualmente trabalho como Web Developer | Front-End.
+ <br>
+ 🐯 Aluna Origamid
+ <br>
+ 💻 Aluna B7Web
 
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabataAmanda&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" />
-
-- 👩‍🎨 Formada em <i><strong>Análise e desenvolvimento de sistemas</strong></i>  na universidade <strong>Cruzeiro do sul</strong>.
-- 📚 Cursando <i><strong>Engenharia de Design Digital</i></strong>  na universidade <strong>UniFatecie</strong>. (3/8)
-- ❤ Apaixonada por Tecnologia e Design.
-- 👩‍💻 Atualmente trabalho como Web Developer | Front-End.
-- 🐯 Aluna Origamid
-- 💻 Aluna B7Web
+<br>
 
 [<img align="left" height="95px" width="95px" alt="imovelguide" src="https://media.licdn.com/dms/image/C4E0BAQF70RHiPewrWA/company-logo_200_200/0/1586999889949?e=2147483647&v=beta&t=k_pUZSPAn9Ok3a9jhC7AhwQP-Q1ZsqxkAJ0KFhVJDNQ"/>](https://imovelguide.com.br)
 **Estágiaria Front-end** \
@@ -29,11 +35,11 @@ Projetos: `Editor De Fotos`, `Gerador de Banners`, `Gerador de Landing Page`, `G
 </div>
  <br>
 <div display="flex">
-<h3>- HTML & CSS Para Iniciantes - Origamid | 74% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
+<h3>- HTML & CSS Para Iniciantes - Origamid | 80% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
  <br>
 <h3>- JavaScript Completo ES6 - Origamid | 6% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
  <br>
-<h3>- HTML & CSS - b7Web | 18% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
+<h3>- HTML & CSS - b7Web | 20% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
 </div>
 <br>
 <hr>
@@ -56,13 +62,16 @@ Projetos: `Editor De Fotos`, `Gerador de Banners`, `Gerador de Landing Page`, `G
 </div>
 <br>
 # Vamos Conversar! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+
+
 ### 📄 Veja Meu Currículo para mais informações:
  <a href="https://thabataamanda.github.io/meu_cv/"> Clique Aqui
 <div align="center"> 
   <a href= "mailto:thabataamanda@hotmail.com"><img margin src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thabataamandagomide/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.behance.net/ThabataAmandaGomide" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
- </div>
+ 
+</div>
   
   
 <div align="center"> 
