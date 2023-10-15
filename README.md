@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C509&width=475&lines=%F0%9F%91%8B+Bem-Vindo(a)+!+%E2%9A%A1+Eu+Sou+a+Thabata)](https://git.io/typing-svg)
 
 <div align="center">
-<img width="40%" height = "40%" src="https://thumbs.gfycat.com/HastyAntiqueBetafish-max-1mb.gif" alt="cover" />
- <img width="40%" height = "40%" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif" alt="cover" />
+<img width="40%" height = "40%" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif" alt="cover" />
+ <img width="40%" height = "40%" src="https://miro.medium.com/v2/resize:fit:679/1*XR3rTO1O_RM69jFDcez7cw.gif" alt="cover" />
 </div>
 &nbsp;
 
@@ -22,11 +22,10 @@
 
 <br>
 
-[<img align="left" height="95px" width="95px" alt="imovelguide" src="https://media.licdn.com/dms/image/C4E0BAQF70RHiPewrWA/company-logo_200_200/0/1586999889949?e=2147483647&v=beta&t=k_pUZSPAn9Ok3a9jhC7AhwQP-Q1ZsqxkAJ0KFhVJDNQ"/>](https://imovelguide.com.br)
-**Estágiaria Front-end** \
-[**Imovel Guide**](https://imovelguide.com.br) \
-Tecnologias: `JavaScript`, `HTML`, `CSS`.\
-Projetos: `Editor De Fotos`, `Gerador de Banners`, `Gerador de Landing Page`, `Gerador de Marca D'agua`.
+[<img align="left" height="95px" width="95px" alt="cheil" src="https://media.licdn.com/dms/image/C4D0BAQF5ULZmt3c1Sg/company-logo_200_200/0/1625443295467/cheil_brasil_logo?e=2147483647&v=beta&t=v3Es4d1mIWcKLKkVEBapOM01rlTOPMbg2CKtjP1v7Mg"/>](https://www.cheil.com.br)
+**AEM Publisher - Front-End Junior** \
+[**Cheil Brasil**](https://www.cheil.com.br) \
+Funções: `Manipulação de sites da Samsung`, `Desenvolvimento Adobe Experience Manager (AEM)`, `Integração de equipe em alto nível de programação`, `HTML`, `CSS`, `JavaScript`, `VTEX, Comunicação da equipe via Microsoft Teams`, `Metodologia ágil`, `Plataforma Jira, SEO`.\
 <br><br>
 # Estudos Em Andamento <img src="https://i.gifer.com/origin/e4/e4cd0639b5a5c1e164aeff4370ed2365.gif" width="20">
 <div display="flex" align="center">
