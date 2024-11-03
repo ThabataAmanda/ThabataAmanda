@@ -25,19 +25,8 @@
 [<img align="left" height="95px" width="95px" alt="cheil" src="https://media.licdn.com/dms/image/C4D0BAQF5ULZmt3c1Sg/company-logo_200_200/0/1625443295467/cheil_brasil_logo?e=2147483647&v=beta&t=v3Es4d1mIWcKLKkVEBapOM01rlTOPMbg2CKtjP1v7Mg"/>](https://www.cheil.com.br)
 **AEM Publisher - Front-End Junior** \
 [**Cheil Brasil**](https://www.cheil.com.br) \
-Funções: `Manipulação de sites da Samsung`, `Desenvolvimento Adobe Experience Manager (AEM)`, `Integração de equipe em alto nível de programação`, `HTML`, `CSS`, `JavaScript`, `VTEX, Comunicação da equipe via Microsoft Teams`, `Metodologia ágil`, `Plataforma Jira, SEO`.\
-<br><br>
-# Estudos Em Andamento <img src="https://i.gifer.com/origin/e4/e4cd0639b5a5c1e164aeff4370ed2365.gif" width="20">
-<div display="flex" align="center">
-<img src="https://i.redd.it/2mrf5qgev8p61.gif" width="42%"/>
-<img width="45%" src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif" alt="cover" />
-</div>
- <br>
-<div display="flex">
-<h3>- JavaScript Completo ES6 - Origamid | 6% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
- <br>
-<h3>- HTML & CSS - b7Web | 24% <img src="https://www.epidomastegasis.gr/gov/Content/images/loaders/loader4.gif" width="18"></h3>
-</div>
+Funções: `Manipulação de sites da Samsung`, `Desenvolvimento Adobe Experience Manager (AEM)`, `Integração de equipe em alto nível de programação`, `HTML`, `CSS`, `JavaScript`, `VTEX Commerce`, `Cadastro, descrição e organização de produtos nas plataformas`, `Comunicação da equipe via Microsoft Teams`, `Metodologia ágil`, `Plataforma Jira, SEO`.\
+<br>
 <br>
 <hr>
 <div style="display: inline_block">
